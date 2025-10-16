@@ -55,9 +55,9 @@ function About({ id }){
           <p>My career goal is to lead Mexico's energy transition by integrating wind farms and battery storage systems into the grid, ensuring a stable, reliable and sustainable supply of electricity.</p>
           <p>With a solid foundation in electrical engineering, my expertise includes:</p>
           <ul>
-            <li>Power system analysis (power flow and transient analysis)</li>
-            <li>Protection systems</li>
-            <li>Electrical Metering management</li>
+            <li>Power system analysis (power flow, short-circuit and transient analysis)</li>
+            <li>Power generation control and protection systems</li>
+            <li>Electrical metering management</li>
             <li>Electricity markets</li>
           </ul>
           <p>I thrive in collaborative environments to drive innovation and achieve project goals with excellence. </p>

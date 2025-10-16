@@ -36,6 +36,7 @@ function Skills({ id }){
     'MATLAB',
     'Java',
     'React',
+    'GitHub',
     'Machine Learning algorithms',
     'Optimization methods',
     'Looker Studio',
