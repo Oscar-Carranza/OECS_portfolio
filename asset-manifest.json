@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OECS_portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/OECS_portfolio/static/js/main.ea9f5fad.js",
+    "main.js": "/OECS_portfolio/static/js/main.b72b8f22.js",
     "static/js/453.30146d35.chunk.js": "/OECS_portfolio/static/js/453.30146d35.chunk.js",
     "static/media/electric_grid.jpeg": "/OECS_portfolio/static/media/electric_grid.a148fa34d2e3d1edbb06.jpeg",
     "static/media/oscar_carranza.jpg": "/OECS_portfolio/static/media/oscar_carranza.5b919402f1480c588a07.jpg",
@@ -11,11 +11,11 @@
     "static/media/cfe_logo.png": "/OECS_portfolio/static/media/cfe_logo.3c9bb6b64706a03f74bb.png",
     "index.html": "/OECS_portfolio/index.html",
     "main.e6c13ad2.css.map": "/OECS_portfolio/static/css/main.e6c13ad2.css.map",
-    "main.ea9f5fad.js.map": "/OECS_portfolio/static/js/main.ea9f5fad.js.map",
+    "main.b72b8f22.js.map": "/OECS_portfolio/static/js/main.b72b8f22.js.map",
     "453.30146d35.chunk.js.map": "/OECS_portfolio/static/js/453.30146d35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ea9f5fad.js"
+    "static/js/main.b72b8f22.js"
   ]
 }
