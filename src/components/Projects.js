@@ -1,6 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
 
+import electric_grid from '../images/electric_grid.jpeg';
+import electrical_meter from '../images/electrical_meter.png';
+import hv_battery from '../images/hv_battery.jpg';
+
 const Section = styled.section`
   padding: 0 0 2rem; /* base vertical breathing */
 `;
@@ -69,19 +73,19 @@ const data = [
   { 
     title: 'HV Battery protection system Warranty Insights', 
     text: 'Implemented a web-application for enhancing the warranty analytics process of the electric protection system in hybrid and electric vehicles within the Ford Motor Company.', 
-    image:'/hv_battery.jpg', alt:'High voltage vehicle battery pack',
+    image: hv_battery, alt:'High voltage vehicle battery pack',
     skills:['Python', 'React', 'SQL', 'Azure', 'Google Cloud', 'HV Contactors', 'Fuses', 'Hybrid and Electric Vehicles', 'High Voltage Battery', 'Protection systems', 'Diagnostic Trouble Codes', 'Warranty data']
   },
   { 
     title: 'AMI mobile', 
     text: 'Developed a mobile application for internal use at Comisión Federal de Electricidad, streamlining the reading of billing and measurement variables of commercial AMI-meters (Elster, Honeywell, Wasion, Eneri, Landis & Gyr).', 
-    image:'/electrical_meter.png', alt:'Eectrical meter picture',
+    image: electrical_meter, alt:'Eectrical meter picture',
     skills:['Java','SQL', 'Android', 'Electricity billing', 'Smart Metering', 'kWh', 'kVArh', 'kW max', 'Voltage', 'Current', 'power factor', 'Advanved Metering Infrastructure (AMI)' ]
   },
   { 
     title: 'Power System Flow Analyzer', 
     text: 'Built a power flow analysis tool (generalized for n-buses) aiding planners to optimize grid loading and reliability, including power generation, transformers, transmission lines, and loads.', 
-    image:'/electric_grid.jpeg', alt:'Transmission lines picture',
+    image: electric_grid, alt:'Transmission lines picture',
     skills:['Python','Numpy', 'Matlab','Power flow','Newton-Raphson Method','Gauss-Seidel Method']
   }
 ];

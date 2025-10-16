@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import portrait from '../images/oscar_carranza.jpg';
 
 const Section = styled.section``;
 
@@ -48,7 +49,7 @@ function About({ id }){
       <Heading>About Me</Heading>
       <Layout>
         <PortraitWrap>
-          <PortraitImg src="/oscar_carranza.jpg" alt="Portrait of Oscar" loading="lazy" />
+          <PortraitImg src={portrait} alt="Portrait of Oscar"/>
         </PortraitWrap>
         <Bio>
           <p>My career goal is to lead Mexico's energy transition by integrating wind farms and battery storage systems into the grid, ensuring a stable, reliable and sustainable supply of electricity.</p>

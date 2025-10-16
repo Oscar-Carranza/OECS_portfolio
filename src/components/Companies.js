@@ -1,6 +1,9 @@
 import React from 'react';
 import styled from 'styled-components';
 
+import ford_logo from '../images/ford_logo.png';
+import cfe_logo from '../images/cfe_logo.png';
+
 const Section = styled.section``;
 
 const Heading = styled.h2`
@@ -29,8 +32,8 @@ const LogoImg = styled.img`
 `;
 
 const logos = [
-  { src:'/ford_logo.png', alt:'PD Logo', url: 'https://www.ford.mx/' },
-  { src:'/cfe_logo.png', alt:'CFE Logo', url: 'https://www.cfe.gob.mx/Pages/default.aspx' }
+  { src: ford_logo, alt:'Ford Logo', url: 'https://www.ford.mx/' },
+  { src: cfe_logo, alt:'CFE Logo', url: 'https://www.cfe.gob.mx/Pages/default.aspx' }
 ];
 
 function Companies({ id }){
