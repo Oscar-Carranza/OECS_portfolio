@@ -52,7 +52,7 @@ function About({ id }){
           <PortraitImg src={portrait} alt="Portrait of Oscar"/>
         </PortraitWrap>
         <Bio>
-          <p>My career goal is to lead Mexico's energy transition by integrating wind farms and battery storage systems into the grid, ensuring a stable, reliable and sustainable supply of electricity.</p>
+          <p>My career goal is to lead energy transition by integrating wind farms and battery storage systems into the grid, ensuring a stable, reliable and sustainable supply of electricity.</p>
           <p>With a solid foundation in electrical engineering, my expertise includes:</p>
           <ul>
             <li>Power system analysis (power flow, short-circuit and transient analysis)</li>
